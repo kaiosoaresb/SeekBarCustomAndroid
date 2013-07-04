@@ -6,8 +6,6 @@
  * Copyright: Kaio Soares
  */
 
-package com.appsis.animobyandroid.view.customcomponents;
-
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Canvas;
